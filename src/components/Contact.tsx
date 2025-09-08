@@ -53,7 +53,7 @@ export default function Contact() {
   };
 
   return (
-   <section id="contact" className="py-10 relative overflow-hidden scroll-mt-[88px] md:scroll-mt-[96px]">
+   <section id="contact" className="py-20 relative overflow-hidden scroll-mt-[88px] md:scroll-mt-[96px]">
       <div className="container mx-auto px-6 relative z-10">
         <motion.div
           variants={containerVariants}
